@@ -2,5 +2,5 @@
 This is NTU train 343 IMLP course.
 
 ## Unit 01
-[Homework 01](http://localhost:8888/notebooks/Downloads/Unit01/Unit01/Unit01_Crash%20Course%20on%20Python.ipynb)
+[Homework 01](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit01/Unit01_Crash%20Course%20on%20Python.ipynb)
 
