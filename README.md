@@ -16,3 +16,6 @@ This is NTU train 343 IMLP course.
 [5_Prepocessing_實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)
 
 [6_scikit_learn_Basic_實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)
+
+## Unit 04
+[Linear Regression_HW.ipynb](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit04/Linear%20Regression_HW.ipynb)
