@@ -19,3 +19,6 @@ This is NTU train 343 IMLP course.
 
 ## Unit 04
 [Linear Regression_HW.ipynb](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit04/Linear%20Regression_HW.ipynb)
+
+## Unit 05
+[Logistic regression實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
