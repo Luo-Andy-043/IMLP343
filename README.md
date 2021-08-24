@@ -22,3 +22,6 @@ This is NTU train 343 IMLP course.
 
 ## Unit 05
 [Logistic regression實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)
+
+## Unit 05_2
+[SVM實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
