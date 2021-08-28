@@ -25,3 +25,8 @@ This is NTU train 343 IMLP course.
 
 ## Unit 05_2
 [SVM實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
+
+## Unit 06
+[ConfusionMatrix_實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)
+[Ensemble實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)
+[Kaggle 分數](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit06/kaggle_score.png)
