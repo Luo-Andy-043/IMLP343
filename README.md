@@ -36,4 +36,5 @@ This is NTU train 343 IMLP course.
 ## Unit 07
 [Kmeans_Image segmentation_實戰](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit07/7.4_Kmeans_Image%20segmentation_%E5%AF%A6%E6%88%B0.ipynb)
 
+## Unit 08
 [PCA_Face Recognition](https://github.com/Luo-Andy-043/IMLP343/blob/main/Unit08/8.3_PCA_Face%20Recognition.ipynb)
